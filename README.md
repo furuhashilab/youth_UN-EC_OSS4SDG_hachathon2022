@@ -4,6 +4,7 @@
 ### メンバー
 * Ibuki Shibayama
 * Sota Suzuki
+* Wataru Yoshida
 ### テーマ
 * PLATEAU データの OpenStreetMap へのインポート
 * 対象地は、東村山市とする。
