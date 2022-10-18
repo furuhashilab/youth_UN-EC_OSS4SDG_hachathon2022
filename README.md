@@ -1,6 +1,9 @@
 # youth_UN-EC_OSS4SDG_hachathon2022
 ### ハッカソン詳細
 * https://github.com/furuhashilab/README/issues/33#issuecomment-1281762516
+### メンバー
+* Ibuki Shibayama
+* Sota Suzuki
 ### テーマ
 * PLATEAU データの OpenStreetMap へのインポート
 * 対象地は、東村山市とする。
