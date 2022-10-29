@@ -11,7 +11,7 @@
 * 対象地は、東村山市とする。 / Location: Higashimurayama-shi, Tokyo
 ### 参考 / References
 * Draft of manual, by [@nyampire](https://qiita.com/nyampire) ( https://qiita.com/nyampire/items/1c10afdd36750c87154d )
-* File converter, by [https://github.com/yuuhayashi](https://github.com/yuuhayashi) ( https://github.com/yuuhayashi/citygml-osm )
+* File converter, by [yuuhayashi](https://github.com/yuuhayashi) ( https://github.com/yuuhayashi/citygml-osm )
 ### 具体的にやること / Todo
 * インポート作業用のマニュアルを完成させる。 / Complete the import manual.
 * 作業の動作チェックを行う。 / Check the performance of the work.
