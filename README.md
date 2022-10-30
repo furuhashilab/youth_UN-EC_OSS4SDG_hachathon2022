@@ -15,3 +15,5 @@
 * Complete the import manual.
 * Check the performance of the work.
 * Import PLATEAU data of Higashimurayama City into OSM.
+
+---
