@@ -6,7 +6,7 @@
 * Sota Suzuki
 * Shogo Hirasawa
 ### Theme
-* Import PLATEAU data into OpenStreetMap.
+* **Import PLATEAU data into OpenStreetMap**
 * Location: Higashimurayama-shi, Tokyo
 ### References
 * Draft of manual, by [@nyampire](https://qiita.com/nyampire) ( https://qiita.com/nyampire/items/1c10afdd36750c87154d )
